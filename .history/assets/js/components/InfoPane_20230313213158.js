@@ -97,7 +97,7 @@ function InfoPane(props) {
                         <a href="https://docs.helium.com/use-the-network/coverage-mapping" target="_blank">Docs</a>
                     </li>
                     <li className="nav-link">
-                        <a href="https://github.com/helium/mappers" target="_blank">GitHub</a>
+                        <a href="https://github.com/CryptoShree/Grizzlython_PURPLEX" target="_blank">GitHub</a>
                     </li>
                 </ul>
             </div>
