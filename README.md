@@ -1,6 +1,6 @@
 # PURPLEX - Solana Helium 5g Hotspot xNFT explorer. 
 
-WATCH THE DEMO VIDEO. https://www.powtoon.com/c/bm2gotS882v/1/m 
+WATCH THE DEMO VIDEO. https://www.youtube.com/watch?v=QZMEZ43d27k&t=2s
 
 Submission by PurpleSquirrelDAO - Matthew Karsten & CryptoSHREE. 
 
